@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="BookRoomTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-29T05:40:01" hostname="user" time="14.332">
+<testsuite name="BookRoomTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-05T05:55:25" hostname="user" time="11.569">
   <properties/>
-  <testcase name="bookRoom()" classname="BookRoomTest" time="14.332"/>
+  <testcase name="positiveBookRoom()" classname="BookRoomTest" time="11.569"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
-[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: /home/user/IdeaProjects/selenideForm/build/downloads/1701236401579_40532_1
+[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: /home/user/IdeaProjects/selenideForm/build/downloads/1701755725636_14434_1
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=119.0.6045.199 Platform=linux
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide v. 7.0.2
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 4.15.0 build revision: 1d14b5521b
-[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Created webdriver in thread 1: ChromeDriver -> ChromeDriver: chrome on linux (63f4c0c9c834fda5de4845f712d56e80), downloadsFolder: /home/user/IdeaProjects/selenideForm/build/downloads/1701236401579_40532_1
-[Test worker] INFO com.codeborne.selenide.drivercommands.DisposablesRegistry - Register WebDriverInstance[config=StaticConfig, webDriver=ChromeDriver: chrome on linux (63f4c0c9c834fda5de4845f712d56e80), proxy=null, downloadsFolder=/home/user/IdeaProjects/selenideForm/build/downloads/1701236401579_40532_1] in 1 [size=1]
+[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Created webdriver in thread 1: ChromeDriver -> ChromeDriver: chrome on linux (79d3ef7aaac69002083817502d16ab87), downloadsFolder: /home/user/IdeaProjects/selenideForm/build/downloads/1701755725636_14434_1
+[Test worker] INFO com.codeborne.selenide.drivercommands.DisposablesRegistry - Register WebDriverInstance[config=StaticConfig, webDriver=ChromeDriver: chrome on linux (79d3ef7aaac69002083817502d16ab87), proxy=null, downloadsFolder=/home/user/IdeaProjects/selenideForm/build/downloads/1701755725636_14434_1] in 1 [size=1]
 [Test worker] INFO com.codeborne.selenide.drivercommands.DisposablesRegistry - Add shutdown hook in 1 [size=1]
 ]]></system-err>
 </testsuite>
